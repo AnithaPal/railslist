@@ -6,7 +6,7 @@ gem 'rails', '4.2.1'
 # Use sqlite3 as the  development database for Active Record and pg for production.
 group :production do
   gem 'pg'
-  gem 'rails-12factor'
+  gem 'rails_12factor'
 
 end
 
